@@ -1,22 +1,22 @@
-# Festlegung eines Sprint Workflows
+# Identifizierung eines Style Guides
 
-* Status: vorgeschlagen 
-* Workload: Zwei Stunden
-* Entscheider: Linnéa und Anna
-* Datum: 2021.04.23
+* Status: In Berarbeitung
+* Workload: 
+* Entscheider: Linnéa und Anna.
+* Datum: 30.04.2021
 
-Technische Geschichte: Für eine optimale Vorbereitung des nächsten Sprints, einen reinbungslosen Verlauf des Sprint und einen erfolgreichen Abschluss dieses Sprints ist es notwenig
-einen Workflow für diese Vorgänge festzulegen. Das dazugehörige Issue kann [hier](https://github.com/Narua2010/Projekt-2-Entwicklung/issues/22) eingesehen werden.
+Das dazugehörige Issue ist [hier] {https://github.com/Narua2010/Projekt-2-Entwicklung/issues/21} zu finden.
 
 ## Kontext und Problemstellung
 
-[Beschreibung des Kontextes und der Problemstellung, z. B., in zwei bis drei Sätzen als Freitext. Ggf. sollte das Problem als Frage formuliert sein.]
+Um ein einheitliches und verständliches Design unserer umzusetzenden Lösung zu ermöglichen sollte sich das Team auf einen für das gesamte Projekt geltenden Style Guide einigen. Für diese Entscheidung stehen uns durch das im MI Bachelor durchgeführte Modul Screendesign einige Möglichkeiten der Umstezung zur Verfügung. Diese wurden für die Entscheidung betrachtet. 
 
-## Entscheidungsgeber <!-- optional -->
+Um eine Entscheidung treffen zu können müssen zunächst jedoch Anforderungen an einen von uns gewählten Style Guide formuliert werden. Mögliche Anforderungen hierfür sind:
+* deutliche und verständlich gewählte Icons für Interaktionen
+* an das bestehnde Design des CDA angepasst
+* übersichtliche Darstellung der Gemälde
+* 
 
-* [driver 1, e.g., a force, facing concern, …]
-* [driver 2, e.g., a force, facing concern, …]
-* … <!-- numbers of drivers can vary -->
 
 ## Betrachtete Optionen
 
